@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Indian Sign Language (ISL) translator using ML**
 
-- 🌱 I’m currently learning **Advanced AI and ML**
+- 🌱 Currently learning **Advanced AI and ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Batuk55](https://github.com/Batuk55)
 
