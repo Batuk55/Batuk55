@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=batuk55" alt="batuk55" /></a> </p>
 
-- 🔭 I’m currently working on **ISL translator using ML**
+- 🔭 I’m currently working on **Indian Sign Language (ISL) translator using ML**
 
 - 🌱 I’m currently learning **Advanced AI and ML**
 
